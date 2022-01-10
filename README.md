@@ -20,5 +20,5 @@ Upon typing on a textbox field (and after focusing the mouse elsewhere), the tab
 One drawback of this design is that making changes to filter criteria can be cumbersome. This design can be benefited from the addition of a "clear all" button.
 
 Some recommendations for further development:
-- Input field validation to verify that the selected criteria is present in the data, would be helpful.
+- Input field validation to verify that the selected criteria is formatted correctly and present in the data, would be helpful.
 - Some fields where the values available are more narrow, such as country and state, could benefit from the use of dropdowns, instead of input text fields.
